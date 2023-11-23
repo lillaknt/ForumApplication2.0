@@ -5,6 +5,12 @@
       "UserName": "ililko",
       "Password": "string",
       "Posts": null
+    },
+    {
+      "Id": 2,
+      "UserName": "lillaknt",
+      "Password": "ppp",
+      "Posts": null
     }
   ],
   "Posts": []
