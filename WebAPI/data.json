@@ -11,7 +11,25 @@
       "UserName": "lillaknt",
       "Password": "ppp",
       "Posts": null
+    },
+    {
+      "Id": 3,
+      "UserName": "Lilla",
+      "Password": "Pass12",
+      "Posts": null
     }
   ],
-  "Posts": []
+  "Posts": [
+    {
+      "Id": 1,
+      "Owner": {
+        "Id": 3,
+        "UserName": "Lilla",
+        "Password": "Pass12",
+        "Posts": null
+      },
+      "Title": "When I am finally done",
+      "Body": "When I am finally done, I will make sure to celebrate!"
+    }
+  ]
 }

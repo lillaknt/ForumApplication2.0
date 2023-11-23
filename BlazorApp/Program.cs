@@ -15,7 +15,7 @@ builder.Services.AddScoped(sp =>
     });
 
 builder.Services.AddScoped<IUserService, UserHttpClient>();
-
+builder.Services.AddScoped<IPostService, PostHttpClient>();
 
 
 
