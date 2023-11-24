@@ -17,6 +17,12 @@
       "UserName": "Lilla",
       "Password": "Pass12",
       "Posts": null
+    },
+    {
+      "Id": 4,
+      "UserName": "test123",
+      "Password": "test123",
+      "Posts": null
     }
   ],
   "Posts": [
